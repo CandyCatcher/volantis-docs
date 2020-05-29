@@ -212,6 +212,7 @@ links:
     - name: Shan san
       url: https://shansan.top/
       avatar: https://cdn.jsdelivr.net/gh/ssmath/images-assets-cdn/try20200311205451.jpg
+      tags: [java技术博客]
 ---
 
 <center>
