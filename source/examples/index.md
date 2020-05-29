@@ -212,6 +212,9 @@ links:
     - name: Shan san
       url: https://shansan.top/
       avatar: https://cdn.jsdelivr.net/gh/ssmath/images-assets-cdn/try20200311205451.jpg
+    - name: CandySky
+      url: https://candysky.top/
+      avatar: http://images.candysky.top//config_file/candy_orange.png
 ---
 
 <center>
